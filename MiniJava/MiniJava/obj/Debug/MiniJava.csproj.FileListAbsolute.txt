@@ -1,0 +1,9 @@
+c:\MiniJava\MiniJava\MiniJava\bin\Debug\MiniJava.exe.config
+c:\MiniJava\MiniJava\MiniJava\bin\Debug\MiniJava.exe
+c:\MiniJava\MiniJava\MiniJava\bin\Debug\MiniJava.pdb
+c:\MiniJava\MiniJava\MiniJava\obj\Debug\MiniJava.csprojResolveAssemblyReference.cache
+c:\MiniJava\MiniJava\MiniJava\obj\Debug\MiniJava.Form1.resources
+c:\MiniJava\MiniJava\MiniJava\obj\Debug\MiniJava.Properties.Resources.resources
+c:\MiniJava\MiniJava\MiniJava\obj\Debug\MiniJava.csproj.GenerateResource.Cache
+c:\MiniJava\MiniJava\MiniJava\obj\Debug\MiniJava.exe
+c:\MiniJava\MiniJava\MiniJava\obj\Debug\MiniJava.pdb
